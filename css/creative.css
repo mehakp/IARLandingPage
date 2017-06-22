@@ -45,6 +45,22 @@ h6 {
     font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
+
+.head-image{
+    width: 330px;
+    height: 330px;
+    border: 7px solid #FC8C6A;
+  
+
+}
+
+.team-image{
+    width: 250px;
+    height: 250px;
+    border: 7px solid #FC8C6A;
+
+}
+
 p {
     font-size: 16px;
     line-height: 1.5;
