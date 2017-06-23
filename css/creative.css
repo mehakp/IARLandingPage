@@ -337,6 +337,12 @@ header .header-content .header-content-inner p {
     }
 }
 
+@media (max-width: 768px) {
+    #team {
+        text-align: center;
+    }
+}
+
 .call-to-action h2 {
     margin: 0 auto 20px;
 }
